@@ -1,0 +1,9 @@
+.BtnContainer{
+    padding: 75px;
+    width: 180px;
+    height: 150px;
+    background-color: white;
+    position: relative;
+    bottom: 80px;
+    right: 65px;
+}

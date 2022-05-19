@@ -1,0 +1,82 @@
+
+
+.buttons{
+    background-color: whitesmoke;
+    color: black;
+    height: 35px;
+    width: 35px;
+    padding: 12px;
+    font-size: 25px;
+    border-radius: 16px;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    position: relative;
+    bottom: 40px;
+    right: 60px;
+}
+
+#zero{
+    width: 95px;
+}
+.buttonO{
+    background-color: whitesmoke;
+    color: black;
+    height: 35px;
+    width: 35px;
+    padding: 12px;
+    font-size: 25px;
+    border-radius: 16px;
+    cursor: pointer;
+    display: block;
+    text-align: center;
+    align-items: flex-start;
+    position: relative;
+    bottom: 275px;
+    left: 117px;
+}
+.buttonC{
+    background-color: whitesmoke;
+    color: black;
+    height: 35px;
+    width: 35px;
+    padding: 12px;
+    font-size: 25px;
+    border-radius: 16px;
+    cursor: pointer;
+    display: block;
+    text-align: center;
+    align-items: flex-start;
+    position: relative;
+    bottom: 570px;
+    left: 180px; 
+}
+.buttonEqual{
+        background-color: black;
+        color:whitesmoke;
+        height: 35px;
+        width: 35px;
+        padding: 12px;
+        font-size: 25px;
+        border-radius: 16px;
+        cursor: pointer;
+        text-align: center;
+        position: relative;
+        bottom: 335px;
+        left: 180px;
+
+}
+
+.screen{
+    padding: 35px;
+    width: 300px;
+    height: 0px;
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 90px;
+    right: 85px;
+    text-align: right;
+}
+
